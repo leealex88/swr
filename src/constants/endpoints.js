@@ -1,0 +1,1 @@
+export const DOGS_ENDPOINT = '/dogs'
